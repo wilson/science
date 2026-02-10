@@ -1,0 +1,7 @@
+# Enforce UNIX line endings, forever.
+* text=auto eol=lf
+
+*.md linguist-language=Markdown
+*.md linguist-documentation
+LICENSE linguist-documentation
+LICENSE linguist-language=Text
